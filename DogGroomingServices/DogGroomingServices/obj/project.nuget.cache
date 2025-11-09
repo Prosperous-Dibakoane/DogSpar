@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O/IicV49oGRpn1WsMwAlYvn6LH1Hr5pdGcwiqhgD/DyqNPLQ4lUrpabNq8f7Yu8OXgTdsMM89Y7mPVO3mRko0w==",
+  "success": true,
+  "projectFilePath": "/home/prosperous/DogGroomingServices/DogGroomingServices/DogGroomingServices/DogGroomingServices.csproj",
+  "expectedPackageFiles": [
+    "/home/prosperous/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/prosperous/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/prosperous/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.36/microsoft.netcore.app.host.linux-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
