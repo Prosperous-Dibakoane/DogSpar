@@ -198,7 +198,9 @@ Contributions, issues, and feature requests are welcome!
   - Sales reporting
 
 
-![Demo Screenshot](dogspar.png)
+![Demo Screenshot](dogspar1.png)
+![Demo Screenshot](dogspar2.png)
+![Demo Screenshot](dogspar3.png)
 
 ---
 
